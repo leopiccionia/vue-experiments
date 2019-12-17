@@ -1,0 +1,13 @@
+{
+  "name": "vue-experiments",
+  "author": "Leonardo Piccioni de Almeida <leopiccionia@gmail.com>",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0",
+    "vuepress": "^1.2.0"
+  }
+}
