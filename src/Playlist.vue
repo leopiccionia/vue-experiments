@@ -65,15 +65,12 @@
   }
 </script>
 
-<style lang="scss">
-  :root {
-    font-family: sans-serif;
-    font-size: 16px;
-  }
-
-  body {
+<style lang="scss" scoped>
+  #the-player {
     background-color: #222;
     color: #DDD;
+    font-family: sans-serif;
+    font-size: 16px;
     min-height: 100vh;
     margin: 0;
     padding: 0;
